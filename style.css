@@ -1,3 +1,56 @@
-.body{
-    background: #000;
+.body {
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+}
+
+.header {
+    background: rgba(229, 84, 115, 0.10);
+
+}
+
+.banner {
+    padding: 30px 300px 0px 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-content {
+    max-width: 700px;
+
+}
+
+.banner .profile-pic {
+    width: 700px;
+    
+}
+
+.banner-greeting {
+
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 0;
+
+
+}
+
+.banner-description {
+
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
