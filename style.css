@@ -152,6 +152,38 @@ main {}
     color: #757575;
 }
 
+/*instagram section start */
+
+.cover {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+
+
+
+}
+.box{
+    margin: 10px;
+    width: 342px;
+        height: 396px;
+        
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .get-the-latest-deal {
     text-align: center;
@@ -159,27 +191,31 @@ main {}
     background-repeat: no-repeat;
     margin-top: 128px;
     background-position: center;
-   
+
 
 }
 
 .get-the-latest-deal-title {
     color: #272727;
-    
+    text-align: center;
+
 
     font-size: 40px;
     font-weight: 800;
-    padding-top:128px;
-    margin-bottom: 0px;
+    padding-top: 128px;
+    margin-bottom: 24px;
 
 }
-.get-the-latest-deal-description{
+
+.get-the-latest-deal-description {
+    text-align: center;
     color: rgba(39, 39, 39, 0.60);
-        font-size: 18px;
-        font-weight: 400;
-        line-height: 30px;
-        margin-top: 0px;
-        margin-bottom: 0px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+    
 
 }
 
