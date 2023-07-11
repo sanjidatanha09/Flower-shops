@@ -244,23 +244,11 @@
 
 }
 
-/* customer section start*/
-.Contact input[type="text"],
-.Contact input[type="email"],
-textarea {
-    display: block;
-    margin-bottom: 25px;
-    padding: 18px 35px;
-    color: #757575;
-    border-radius: 5px;
-    background: #FFF;
-    border: 0;
-    width: 70%;
-}
-
-/* customer section start*/
+/*own create section start*/
 
 
+
+/*own create section end*/
 
 
 
