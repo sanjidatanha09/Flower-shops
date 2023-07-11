@@ -60,120 +60,94 @@
 /*main start */
 
 /*our featured flower (2nd) section start */
+.featured-box {
+    text-align: center;
+}
+
 .box1 {
     background-color: aqua;
     border-radius: 300px 300px 0px 0px;
-        background: rgba(167, 33, 98, 0.15);
-
-
+    background: rgba(167, 33, 98, 0.15);
     width: 464px;
     height: 538px;
+    margin-right: 24px;
+    margin-bottom: 30px;
 
 
-    margin: 10px;
-    
+
+}
+
+.img-primary {
+    width: 310px;
+    height: 428px;
+    padding: 105px 78px 0px 76px;
+
+
+}
+
+.img-secondary {
+    width: 370px;
+    height: 370px;
+    padding: 117px 47px 51px 47px;
+
+}
+
+.featured-box a {
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    padding-top: 45px;
 }
 
 
 /*our featured flower (2nd) section end */
 
 
-/*hot deal section*/
+/*hot deal section start*/
 
-main {}
-
-.sectionnext {
-    padding: 90px 30px 0px 700px;
-    text-align: center;
+.hot-deal-section{
     border-radius: 8px;
-    background: rgba(229, 84, 115, 0.05);
-
-
-    display: flex;
-    margin-top: 90px;
-
-
-
-
+        background: rgba(229, 84, 115, 0.05);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 150px;
+        padding-top: 230px;
 
 }
+  
 
 .hot-deal-section-content {
-    max-width: 550px;
+  
     text-align: center;
-    margin-right: 186px;
-    padding: 70px;
-
-
+    
+    padding: auto;
+    margin-right: 140px;
 }
 
-.section-title {
+.hot-deal-title {
     color: #272727;
     font-size: 40px;
     font-weight: 800;
-    text-align: center;
-
 
 }
 
-.span-primary {
-    color: #E55473;
-}
-
-.span-primary2 {
-    color: #FFFFFF
-}
-
-
-.section-description {
-    color: color: rgba(39, 39, 39, 0.60);
-    text-align: center;
+.hot-deal-description {
+    color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-}
-
-.profile-pic2 {
-    width: 318px;
-    height: 520px;
-}
-
-
-.section-title {
-    color: #181818;
-    text-align: center;
-    font-size: 35px;
-    font-weight: 700;
 
 }
 
-.section-description {
-    color: #757575;
-    text-align: center;
-    font-size: 18px;
 
-}
-
-#what-i-do-description {
-    padding: 30px 150px;
-}
-
-.skills-container {
+.hot-deal-profile {
     display: flex;
-    gap: 24px;
 }
 
-.skill {
-    padding: 30px;
-    border-radius: 5px;
-    background: #FFF;
-    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.6);
-}
-
-.skill-description {
-    color: #757575;
-}
-
+/*hot deal section end*/
 /*instagram section start */
 
 .cover {
@@ -270,13 +244,29 @@ main {}
 
 }
 
+/* customer section start*/
+.Contact input[type="text"],
+.Contact input[type="email"],
+textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 70%;
+}
+
+/* customer section start*/
 
 
 
 
 
 
-/*footer sectio*/
+
+/*footer section*/
 
 footer {
     background: #111010;
@@ -292,5 +282,38 @@ footer {
     padding-top: 128px;
     margin-bottom: 345px;
 
+
+}
+
+.span-primary {
+    color: #E55473;
+}
+
+.span-primary2 {
+    color: #FFFFFF
+}
+
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.footer-description2 {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.footer-title {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+    font-size: 40px;
 
 }
