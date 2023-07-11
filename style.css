@@ -2,8 +2,6 @@
     font-family: 'Lato', sans-serif;
 }
 
-
-
 .btn-primary {
     border-radius: 8px;
     background: #E55473;
@@ -15,6 +13,7 @@
 }
 
 .header {
+
     background: rgba(229, 84, 115, 0.10);
 
 }
@@ -60,8 +59,8 @@
 /*main start */
 
 
-
 /*our featured flower (2nd) section start */
+
 .featured-box {
     text-align: center;
 
@@ -73,20 +72,11 @@
     height: 538px;
     margin-right: 24px;
     margin-bottom: 30px;
-
 }
-
-
 
 .box2 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-
-
-
-
-
-
 }
 
 .box3 {
@@ -98,15 +88,12 @@
 .box4 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-
 }
 
 .img-primary {
     width: 310px;
     height: 428px;
     padding: 105px 78px 0px 76px;
-
-
 
 }
 
@@ -127,16 +114,12 @@
 
 }
 
-
 /*our featured flower (2nd) section end */
 
 /* 3rd section start*/
-
-
 .delivary {
     margin: 0 auto;
 }
-
 .delivary-section {
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
@@ -149,7 +132,6 @@
 
 
 }
-
 .delivary-info {
     text-align: center;
 
@@ -159,7 +141,6 @@
     font-weight: 600;
 
 }
-
 #delivary-info1 {
     padding-left: 174px;
 
@@ -168,12 +149,10 @@
 #delivary-info2 {
     padding-right: 174px;
 }
-
 /* 3rd section end*/
 
 
 /*hot deal section start*/
-
 .hot-deal-section {
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
@@ -185,11 +164,8 @@
 
 }
 
-
 .hot-deal-section-content {
-
     text-align: center;
-
     padding: auto;
     margin-right: 140px;
 }
@@ -198,9 +174,7 @@
     color: #272727;
     font-size: 40px;
     font-weight: 800;
-
 }
-
 .hot-deal-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
@@ -208,7 +182,6 @@
     line-height: 30px;
 
 }
-
 
 .hot-deal-profile {
     display: flex;
@@ -221,16 +194,12 @@
     align-items: center;
     justify-content: center;
     display: flex;
-
-
 }
 
 .box {
     margin: 10px;
     width: 342px;
     height: 396px;
-
-
 }
 
 /*get the latest deal section */
@@ -242,14 +211,10 @@
     margin-top: 128px;
     background-position: center;
 
-
 }
-
 .get-the-latest-deal-title {
     color: #272727;
     text-align: center;
-
-
     font-size: 40px;
     font-weight: 800;
     padding-top: 128px;
@@ -267,18 +232,12 @@
     margin-top: 0px;
     margin-bottom: 24px;
 
-
 }
-
 
 #email-design {
     width: 700px;
-
     border-radius: 8px;
     background: #FFF;
-
-    border-radius: 8px;
-
     font-size: 20px;
     font-weight: 700;
     padding: 20px 43px;
@@ -286,9 +245,6 @@
     margin-top: 0px;
     margin-right: 16px;
     margin-bottom: 122px;
-
-
-
 
 }
 
@@ -300,18 +256,12 @@
     justify-content: center;
     align-items: center;
     padding: 200px 100px 200px 100px;
-
     margin-top: 129px;
-
     background-image: url('Flower\ Asset/pinterest.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
 
-
-
 }
-
-
 
 .connect-content {
 
@@ -336,15 +286,12 @@
 
 }
 
-
 .connect-profile1 {
-
     border-radius: 50%;
     margin-left: 100px;
     margin-right: 0px;
 
 }
-
 .connect-profile2 {
 
     border-radius: 50%;
@@ -352,7 +299,6 @@
     margin-right: 100px;
 
 }
-
 .social-description {
     font-size: 22px;
     color: #332b32;
@@ -363,9 +309,6 @@
 /*own create section end*/
 
 
-
-
-
 /*footer section*/
 
 footer {
@@ -373,8 +316,6 @@ footer {
     width: 100%;
     height: 449px;
     margin-top: 128px;
-
-
 }
 
 .footer {
@@ -382,17 +323,14 @@ footer {
     padding-top: 128px;
     margin-bottom: 345px;
 
-
 }
 
 .span-primary {
     color: #E55473;
 }
-
 .span-primary2 {
     color: #FFFFFF
 }
-
 
 .footer-description {
     color: rgba(255, 255, 255, 0.90);
