@@ -59,6 +59,8 @@
 
 /*main start */
 
+
+
 /*our featured flower (2nd) section start */
 .featured-box {
     text-align: center;
@@ -104,25 +106,64 @@
 
 /*our featured flower (2nd) section end */
 
+/* 3rd section start*/
+
+
+/* 3rd section end*/
+.delivary{
+    margin: 0 auto;
+}
+
+.delivary-section{
+    border-radius: 8px;
+        background: rgba(39, 39, 39, 0.05);
+        display: flex;
+        align-items:center;
+        justify-content: space-between;
+        padding-top: 87px;
+        padding-bottom: 87px;
+        margin: 128px 650px 128px 650px ;
+        
+        
+}
+
+.delivary-info{
+    text-align: center;
+
+    color: rgba(39, 39, 39, 0.80);
+    
+        font-size: 15px;
+        font-weight: 600;
+
+}
+#delivary-info1{
+    padding-left: 174px;
+
+}
+#delivary-info2{
+    padding-right: 174px;
+}
+
+
 
 /*hot deal section start*/
 
-.hot-deal-section{
+.hot-deal-section {
     border-radius: 8px;
-        background: rgba(229, 84, 115, 0.05);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding-bottom: 150px;
-        padding-top: 230px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 150px;
+    padding-top: 230px;
 
 }
-  
+
 
 .hot-deal-section-content {
-  
+
     text-align: center;
-    
+
     padding: auto;
     margin-right: 140px;
 }
@@ -166,6 +207,7 @@
 
 }
 
+/*get the latest deal section */
 
 .get-the-latest-deal {
     text-align: center;
@@ -232,13 +274,13 @@
     justify-content: center;
     align-items: center;
     padding: 200px 100px 200px 100px;
-  
-    margin-top:129px;
-    
+
+    margin-top: 129px;
+
     background-image: url('Flower\ Asset/pinterest.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
-   
+
 
 
 }
@@ -250,7 +292,7 @@
     text-align: center;
     padding: auto;
     margin-right: 140px;
-    margin-left:140px;
+    margin-left: 140px;
 }
 
 .connect-title {
@@ -270,12 +312,13 @@
 
 
 .connect-profile1 {
-    
+
     border-radius: 50%;
-    margin-left:100px;
-    margin-right:0px;
-    
+    margin-left: 100px;
+    margin-right: 0px;
+
 }
+
 .connect-profile2 {
 
     border-radius: 50%;
@@ -283,9 +326,11 @@
     margin-right: 100px;
 
 }
-.social-description{
+
+.social-description {
     font-size: 22px;
-    color:#000080;
+    color: #332b32;
+    font-weight: bold;
 
 }
 
