@@ -55,7 +55,28 @@
     margin-bottom: 32px;
 }
 
+/*1st section header section end */
+
 /*main start */
+
+/*our featured flower (2nd) section start */
+.box1 {
+    background-color: aqua;
+    border-radius: 300px 300px 0px 0px;
+        background: rgba(167, 33, 98, 0.15);
+
+
+    width: 464px;
+    height: 538px;
+
+
+    margin: 10px;
+    
+}
+
+
+/*our featured flower (2nd) section end */
+
 
 /*hot deal section*/
 
@@ -91,6 +112,7 @@ main {}
     font-size: 40px;
     font-weight: 800;
     text-align: center;
+
 
 }
 
@@ -161,17 +183,16 @@ main {}
 
 
 }
-.box{
+
+.box {
     margin: 10px;
     width: 342px;
-        height: 396px;
-        
-        
-}
-#get-the-latest-deal-description-insta{
-    
+    height: 396px;
+
 
 }
+
+#get-the-latest-deal-description-insta {}
 
 
 
@@ -207,6 +228,7 @@ main {}
     padding-top: 128px;
     margin-bottom: 24px;
 
+
 }
 
 .get-the-latest-deal-description {
@@ -217,7 +239,7 @@ main {}
     line-height: 30px;
     margin-top: 0px;
     margin-bottom: 24px;
-    
+
 
 }
 
