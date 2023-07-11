@@ -64,18 +64,40 @@
 /*our featured flower (2nd) section start */
 .featured-box {
     text-align: center;
+
+
 }
 
 .box1 {
-    background-color: aqua;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
     width: 464px;
     height: 538px;
     margin-right: 24px;
     margin-bottom: 30px;
 
+}
 
+
+
+.box2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+
+
+
+
+
+}
+
+.box3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+
+.box4 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
 
 }
 
@@ -83,6 +105,7 @@
     width: 310px;
     height: 428px;
     padding: 105px 78px 0px 76px;
+
 
 
 }
@@ -101,6 +124,7 @@
     line-height: 35px;
     text-decoration-line: underline;
     padding-top: 45px;
+
 }
 
 
@@ -109,41 +133,43 @@
 /* 3rd section start*/
 
 
-/* 3rd section end*/
-.delivary{
+.delivary {
     margin: 0 auto;
 }
 
-.delivary-section{
+.delivary-section {
     border-radius: 8px;
-        background: rgba(39, 39, 39, 0.05);
-        display: flex;
-        align-items:center;
-        justify-content: space-between;
-        padding-top: 87px;
-        padding-bottom: 87px;
-        margin: 128px 650px 128px 650px ;
-        
-        
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 87px;
+    padding-bottom: 87px;
+    margin: 128px 660px 128px 657px;
+
+
 }
 
-.delivary-info{
+.delivary-info {
     text-align: center;
 
     color: rgba(39, 39, 39, 0.80);
-    
-        font-size: 15px;
-        font-weight: 600;
+
+    font-size: 15px;
+    font-weight: 600;
 
 }
-#delivary-info1{
+
+#delivary-info1 {
     padding-left: 174px;
 
 }
-#delivary-info2{
+
+#delivary-info2 {
     padding-right: 174px;
 }
 
+/* 3rd section end*/
 
 
 /*hot deal section start*/
